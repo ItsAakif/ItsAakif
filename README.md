@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aakif Mudel</h1>
 <h3 align="center">A Passionate developer from India, diving in the world of open source.</h3>
+<br>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=itsaakif&label=Profile%20views&color=0e75b6&style=flat" alt="itsaakif" /> </p>
 
 - 🌱 I’m currently learning **Django and Tensorflow**
 
