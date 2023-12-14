@@ -25,3 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsaakif&show_icons=true&locale=en" alt="itsaakif" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsaakif&" alt="itsaakif" /></p>
+
+<h3 align="left">Holopin Badges:</h3>
+
+[![An image of @itsaakif's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itsaakif)](https://holopin.io/@itsaakif)
