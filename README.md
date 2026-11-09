@@ -1,31 +1,52 @@
-<h1 align="center">Hi 👋, I'm Aakif Mudel</h1>
-<h3 align="center">A Passionate developer from India, diving in the world of open source.</h3>
-<br>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=itsaakif&label=Profile%20views&color=0e75b6&style=flat" alt="itsaakif" /> </p>
+# Aakif Mudel
 
-- 🌱 I’m currently learning **Django and Tensorflow**
+I love building and learning about things that confuse me.
 
-- 📫 How to reach me **aakifmudel@gmail.com**
+[![Portfolio](https://img.shields.io/badge/Portfolio-aakifmudel.xyz-21262d?style=flat-square&logo=googlechrome&logoColor=white)](https://aakifmudel.xyz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aakif%20Mudel-21262d?style=flat-square&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/aakifmudel) [![Email](https://img.shields.io/badge/Email-aakifmudel%40gmail.com-21262d?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:aakifmudel@gmail.com) [![Dev.to](https://img.shields.io/badge/Dev.to-itsaakif-21262d?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/itsaakif)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/itsaakif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="itsaakif" height="30" width="40" /></a>
-<a href="https://twitter.com/aakifhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aakifhere" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aakifmudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakifmudel" height="30" width="40" /></a>
-<a href="https://instagram.com/aakif_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakif_here" height="30" width="40" /></a>
-<a href="https://medium.com/@aakifmudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="aakifmudel" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Current obsession
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsaakif&show_icons=true&locale=en&layout=compact" alt="itsaakif" /></p>
+- Learning and building local-first AI systems
+- Recreating results from the latest research papers
+- Staying up to date with new breakthroughs
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsaakif&show_icons=true&locale=en" alt="itsaakif" /></p>
+## Selected work
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsaakif&" alt="itsaakif" /></p>
+[![Clearance](logos/clearance.png)](https://github.com/ItsAakif/clearance) **[Clearance](https://github.com/ItsAakif/clearance)** — A self-hosted job search and resume workspace with a 350k-posting ATS catalogue, evidence-gated resumes and an application board. `TypeScript` `React` `Postgres`
 
-<h3 align="left">Holopin Badges:</h3>
+[![TrashTheTest](logos/trashthetest.png)](https://github.com/ItsAakif/TrashTheTest) **[TrashTheTest](https://github.com/ItsAakif/TrashTheTest)** — Upload a textbook and get cited notes, flashcards, practice questions, an AI tutor and a publishable study site. `Python` `FastAPI` `React`
 
-[![An image of @itsaakif's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itsaakif)](https://holopin.io/@itsaakif)
+[![Enamel](logos/enamel.png)](https://github.com/ItsAakif/Enamel) **[Enamel](https://github.com/ItsAakif/Enamel)** — A multi-tenant dental practice platform with scheduling, charting, billing, a patient portal and an AI assistant. `Django` `React` `Postgres`
+
+[![Freehaven](logos/freehaven.png)](https://github.com/ItsAakif/freehaven) **[Freehaven](https://github.com/ItsAakif/freehaven)** — A local-first reading app that turns any PDF into a narrated, chapter-by-chapter guide with cited answers. `React Native` `Expo` `SQLite`
+
+[![Bitewise](logos/bitewise.png)](https://github.com/ItsAakif/Bitewise) **[Bitewise](https://github.com/ItsAakif/Bitewise)** — An offline nutrition diary built around Indian home cooking, with 174 foods and no account. `React Native` `Expo`
+
+[![vault](logos/vault.png)](https://github.com/ItsAakif/vault) **[vault](https://github.com/ItsAakif/vault)** — A command centre for notes, projects, jobs and calendar, stored as plain files in your own Google Drive. `Next.js` `Prisma`
+
+## More projects
+
+- **[Pipeline](https://github.com/ItsAakif/pipeline)** — Visualises every stage of the C compilation pipeline, then runs your code. `Rust` `actix-web` `SolidJS` · [live](https://pipeline.aakifmudel.xyz/)
+- **[Screens](https://github.com/ItsAakif/Screens)** — A native Windows 11 wallpaper manager. `C#` `WinUI 3`
+- **[ToRIS](https://github.com/ItsAakif/Toris)** — An LLM inference runtime that adapts decoding mid-generation. `Rust` `llama.cpp`
+- **[Tasktide](https://github.com/ItsAakif/Tasktide)** — A Windows task manager that saves your work before ending a process. `Rust` `Iced`
+- **[Sahayak](https://github.com/ItsAakif/Sahayak)** — An AI teaching assistant for rural classrooms. `React` `Gemini` · [live](https://sahayak-0.web.app/)
+- **[Krezy](https://github.com/ItsAakif/KrezyDetection)** — Cross-platform emotion detection you can pip install. `Python` `DeepFace`
+- **[Assets](https://github.com/ItsAakif/Assets)** — A personal finance dashboard. `React` `Vite` · [live](https://assets-ebon-nu.vercel.app)
+- **[Regulense](https://github.com/ItsAakif/Regulense)** — Compliance document verification with OCR and scoring. `Flask` `PaddleOCR` `React`
+- **[GeoVision](https://github.com/ItsAakif/geovision)** — Geospatial feature detection from satellite imagery. `Python` `PyTorch` `GDAL`
+- **[Zyra](https://github.com/ItsAakif/Zyra)** — A global payments prototype on Algorand. `React Native` `Algorand` · [live](https://zyra-payments.netlify.app/)
+
+## GitHub
+
+![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsaakif&theme=github_dark)
+
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsaakif&theme=github_dark) ![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsaakif&theme=github_dark)
+
+---
+
+Most of these are MIT licensed. Issues and pull requests are welcome.
