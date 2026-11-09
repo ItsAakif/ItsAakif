@@ -16,17 +16,17 @@ I love building and learning about things that confuse me.
 
 ## Selected work
 
-[![Clearance](logos/clearance.png)](https://github.com/ItsAakif/clearance) **[Clearance](https://github.com/ItsAakif/clearance)** — A self-hosted job search and resume workspace with a 350k-posting ATS catalogue, evidence-gated resumes and an application board. `TypeScript` `React` `Postgres`
+<a href="https://github.com/ItsAakif/clearance"><img align="absmiddle" width="32" src="logos/clearance.png" alt="Clearance"></a> **[Clearance](https://github.com/ItsAakif/clearance)** — A self-hosted job search and resume workspace with a 350k-posting ATS catalogue, evidence-gated resumes and an application board. `TypeScript` `React` `Postgres`
 
-[![TrashTheTest](logos/trashthetest.png)](https://github.com/ItsAakif/TrashTheTest) **[TrashTheTest](https://github.com/ItsAakif/TrashTheTest)** — Upload a textbook and get cited notes, flashcards, practice questions, an AI tutor and a publishable study site. `Python` `FastAPI` `React`
+<a href="https://github.com/ItsAakif/TrashTheTest"><img align="absmiddle" width="32" src="logos/trashthetest.png" alt="TrashTheTest"></a> **[TrashTheTest](https://github.com/ItsAakif/TrashTheTest)** — Upload a textbook and get cited notes, flashcards, practice questions, an AI tutor and a publishable study site. `Python` `FastAPI` `React`
 
-[![Enamel](logos/enamel.png)](https://github.com/ItsAakif/Enamel) **[Enamel](https://github.com/ItsAakif/Enamel)** — A multi-tenant dental practice platform with scheduling, charting, billing, a patient portal and an AI assistant. `Django` `React` `Postgres`
+<a href="https://github.com/ItsAakif/Enamel"><img align="absmiddle" width="32" src="logos/enamel.png" alt="Enamel"></a> **[Enamel](https://github.com/ItsAakif/Enamel)** — A multi-tenant dental practice platform with scheduling, charting, billing, a patient portal and an AI assistant. `Django` `React` `Postgres`
 
-[![Freehaven](logos/freehaven.png)](https://github.com/ItsAakif/freehaven) **[Freehaven](https://github.com/ItsAakif/freehaven)** — A local-first reading app that turns any PDF into a narrated, chapter-by-chapter guide with cited answers. `React Native` `Expo` `SQLite`
+<a href="https://github.com/ItsAakif/freehaven"><img align="absmiddle" width="32" src="logos/freehaven.png" alt="Freehaven"></a> **[Freehaven](https://github.com/ItsAakif/freehaven)** — A local-first reading app that turns any PDF into a narrated, chapter-by-chapter guide with cited answers. `React Native` `Expo` `SQLite`
 
-[![Bitewise](logos/bitewise.png)](https://github.com/ItsAakif/Bitewise) **[Bitewise](https://github.com/ItsAakif/Bitewise)** — An offline nutrition diary built around Indian home cooking, with 174 foods and no account. `React Native` `Expo`
+<a href="https://github.com/ItsAakif/Bitewise"><img align="absmiddle" width="32" src="logos/bitewise.png" alt="Bitewise"></a> **[Bitewise](https://github.com/ItsAakif/Bitewise)** — An offline nutrition diary built around Indian home cooking, with 174 foods and no account. `React Native` `Expo`
 
-[![vault](logos/vault.png)](https://github.com/ItsAakif/vault) **[vault](https://github.com/ItsAakif/vault)** — A command centre for notes, projects, jobs and calendar, stored as plain files in your own Google Drive. `Next.js` `Prisma`
+<a href="https://github.com/ItsAakif/vault"><img align="absmiddle" width="32" src="logos/vault.png" alt="vault"></a> **[vault](https://github.com/ItsAakif/vault)** — A command centre for notes, projects, jobs and calendar, stored as plain files in your own Google Drive. `Next.js` `Prisma`
 
 ## More projects
 
