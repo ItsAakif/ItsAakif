@@ -43,7 +43,7 @@ I love building and learning about things that confuse me.
 
 ## GitHub
 
-![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsaakif&theme=github_dark)
+![GitHub streak](https://streak-stats.demolab.com?user=itsaakif&theme=github-dark&hide_border=true&disable_animations=true)
 
 ![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsaakif&theme=github_dark) ![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsaakif&theme=github_dark)
 
