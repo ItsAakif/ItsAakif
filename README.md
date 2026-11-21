@@ -32,6 +32,7 @@ I love building and learning about things that confuse me.
 
 - **[StopTheCap](https://github.com/ItsAakif/StopTheCap)** — An AI-text detection research artefact with audited datasets, leakage gates and a DistilBERT model on Hugging Face. `Python` `DistilBERT` `Hugging Face` · [model](https://huggingface.co/itsaakif/StopTheCap-E2C1-distilbert)
 - **[Pipeline](https://github.com/ItsAakif/pipeline)** — Visualises every stage of the C compilation pipeline, then runs your code. `Rust` `actix-web` `SolidJS` · [live](https://pipeline.aakifmudel.xyz/)
+- **[RedFence](https://github.com/ItsAakif/redfence)** — A deterministic benchmark and test harness for security-boundary failures in stateful RAG and tool-using agents. `Python` `RAG` `AI Security`
 - **[Screens](https://github.com/ItsAakif/Screens)** — A native Windows 11 wallpaper manager. `C#` `WinUI 3`
 - **[ToRIS](https://github.com/ItsAakif/Toris)** — An LLM inference runtime that adapts decoding mid-generation. `Rust` `llama.cpp`
 - **[Tasktide](https://github.com/ItsAakif/Tasktide)** — A Windows task manager that saves your work before ending a process. `Rust` `Iced`
